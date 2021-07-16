@@ -1,0 +1,110 @@
+sample03-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.737687703455	5	0	0
+Class	1.35881549932	8	0	0
+Order	1.35881549932	11	0	0
+Family	1.35881549932	15	0	0
+Genus	1.35881549932	18	0	0
+Species	1.35881549932	20	0	0
+
+
+sample09-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.427666870017	5	0	0
+Class	1.25880892778	8	0	0
+Order	1.25880892778	11	0	0
+Family	1.27595346783	15	0	0
+Genus	1.27942444832	18	0	0
+Species	1.27942444832	20	0	0
+
+
+sample08-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.358649346289	5	0	0
+Class	1.01928605905	8	0	0
+Order	1.01928605905	11	0	0
+Family	1.11456212881	15	0	0
+Genus	1.11456212881	18	0	0
+Species	1.11456212881	20	0	0
+
+
+sample06-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.413017453217	5	0	0
+Class	1.36223300359	8	0	0
+Order	1.36223300359	11	0	0
+Family	1.36223300359	15	0	0
+Genus	1.36223300359	18	0	0
+Species	1.36223300359	20	0	0
+
+
+sample10-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.209605978546	5	0	0
+Class	1.11761865777	8	0	0
+Order	1.11761865777	11	0	0
+Family	1.12244683754	15	0	0
+Genus	1.13262799924	18	0	0
+Species	1.13262799924	20	0	0
+
+
+sample05-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.542067370855	5	0	0
+Class	1.33743234011	8	0	0
+Order	1.33743234011	11	0	0
+Family	1.33743234011	15	0	0
+Genus	1.34767985706	18	0	0
+Species	1.34767985706	20	0	0
+
+
+sample07-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.51575419464	5	0	0
+Class	1.65862934829	8	0	0
+Order	1.65862934829	11	0	0
+Family	1.65862934829	15	0	0
+Genus	1.65862934829	18	0	0
+Species	1.65862934829	20	0	0
+
+
+sample01-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.462749213012	5	0	0
+Class	1.21720881427	8	0	0
+Order	1.21720881427	11	0	0
+Family	1.23189926548	15	0	0
+Genus	1.23189926548	18	0	0
+Species	1.23189926548	20	0	0
+
+
+sample04-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.343232102297	5	0	0
+Class	1.14431732144	8	0	0
+Order	1.14431732144	11	0	0
+Family	1.14431732144	15	0	0
+Genus	1.14431732144	18	0	0
+Species	1.14431732144	20	0	0
+
+
+sample02-20sp-Uniform
+#Rank	Divergence (%)	Common	Real specific	Checked specific
+Domain	0.0	1	0	0
+Phylum	0.382070269419	5	0	0
+Class	1.13124310698	8	0	0
+Order	1.13124310698	11	0	0
+Family	1.18507431332	15	0	0
+Genus	1.18507431332	18	0	0
+Species	1.18507431332	20	0	0
+
+
